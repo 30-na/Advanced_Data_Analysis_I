@@ -1,2 +1,2 @@
-# Advanced_Data_Analysis_I_-ADA1-
+# Advanced_Data_Analysis_I
 UNM Stat 427/527  Professor: Erik Erhardt 
